@@ -6,3 +6,13 @@ This repository contains my solution for Task-2 of the Data Science internship a
 # Dataset
 * The dataset used is often the Titanic dataset from kaggle.
 * It consists of rows (passenger entries) and columns (Features such as Passsengerkd , Survived , Pclass , Name , Sex , Age , Fare , Cabin, Embarked, Etc)
+  
+# Task Description
+* Perform data cleaning:
+  * Handle missing values
+  * Drop duplicates
+  * Data type corrections
+* Conduct exploratory data analysis(EDA):
+  * Unvariate analysis ( distribution of individual features)
+  * Bivariate relationship (e.g. survival vs.age,fare,class)
+  * Visualization( Histograms , Bar Charts , Box Plots,Heatmaps) 
